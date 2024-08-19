@@ -1,2 +1,2 @@
 # APP-DEVELOPMENT
-Any one can use it
+must download shared_preference (package)
